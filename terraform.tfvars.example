@@ -1,0 +1,6 @@
+# The ID of your Google Cloud project.
+project_id = "your-gcp-project-id"
+
+# You can override the default values from variables.tf here if you wish.
+# region     = "us-east1"
+# volume_name = "data-volume-001"
